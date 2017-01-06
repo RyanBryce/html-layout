@@ -1,0 +1,60 @@
+.container {
+  display: flex;
+  height: auto;
+  align-items: stretch;
+}
+
+.box1{
+  background-color: lightblue;
+  height: 750px;
+  flex: 1;
+}
+.box2{
+  background-color: teal;
+  flex: 1;
+}
+.box3{
+  background: lightgreen;
+  display: flex;
+  align-items: flex-end;
+  flex: 1;
+}
+.box{
+  height: 100vh;
+}
+.img{
+  flex: 1;
+height: 25vh;
+background-color: red;
+
+}
+
+
+
+
+/*body, html{
+  margin: 0;
+  width: 600px;
+}
+.left{
+float: left;
+background-color: lightblue;
+width:200px ;
+height: 600px;
+
+}
+.center{
+  background-color: teal;
+  float: left;
+  width: 200px;
+  height: 600px;
+
+
+}
+.right{
+  float: left;
+  background-color: lightgreen;
+  width: 200px;
+  height: 600px;
+
+}*/
