@@ -24,11 +24,12 @@
 }
 .img{
   flex: 1;
+  display: flex;
 height: 25vh;
 background-color: red;
-
+justify-content: center;
+ align-items: center;
 }
-
 
 
 
