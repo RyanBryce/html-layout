@@ -1,0 +1,19 @@
+header{
+  background-color: #504f4f;
+  height: 190px;
+}
+.left{
+  background-color: grey;
+  height: 750px;
+  width: 15%;
+  float: left;
+}
+.right{
+background-color: grey;
+  height: 750px;
+  width: 15%;
+  float: right;
+}
+.middle{
+  width: 70%;
+}
