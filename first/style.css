@@ -1,19 +1,30 @@
-header{
-  background-color: #504f4f;
-  height: 190px;
+html, body {
+    margin: 0;
 }
-.left{
-  background-color: grey;
-  height: 750px;
-  width: 15%;
-  float: left;
+
+main {
+    height: 100vh;
+    background-color: lightgrey;
 }
-.right{
-background-color: grey;
-  height: 750px;
-  width: 15%;
-  float: right;
+
+header {
+    background-color: #504f4f;
+    height: 30%;
 }
-.middle{
-  width: 70%;
+
+footer {
+    background-color: black;
+    height: 15%;
+    width: 70%;
+    margin: auto;
+
+}
+
+
+
+.middleB {
+    background-color: white;
+    width: 70%;
+    margin: auto;
+    height:55%;
 }
