@@ -11,7 +11,8 @@
 .box2{
   background-color: white;
   flex: 2;
-  height:25vh;
+  height:45vh;
+
 }
 .box3{
   background-color: lightblue;
@@ -45,6 +46,7 @@
 }
 h3{
   text-align: center;
-  padding-left: 20px;
+  text-align: left;
+  padding-left: 40px;
   padding-right: 20px;
 }
